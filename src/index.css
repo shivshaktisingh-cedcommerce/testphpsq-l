@@ -1,0 +1,64 @@
+#nav{
+    width:100%;
+    background-color: #0c0b12;
+}
+#nav1{
+    width:100%;
+    display:flex;
+}
+#registration{
+    font-size:2vw;
+    color:white;
+    margin:auto;
+    padding:1vw;
+}
+#login{
+    font-size:2vw;
+    color:white;
+    margin:auto;
+    padding:1vw;
+}
+#registrationdiv{
+    width:50%;
+    margin:auto;
+    margin-top:10%;
+}
+input[type=text]{
+    width:50%;
+    border:none;
+    outline:none;
+    min-height:3vw;
+    margin-top:2%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+input[type=submit]{
+    width:50%;
+    border:none;
+    font-size:2vw;
+    outline:none;
+    min-height:3vw;
+    margin-top:2%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+input[type=password]{
+    width:50%;
+    border:none;
+    font-size:2vw;
+    outline:none;
+    min-height:3vw;
+    margin-top:2%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+input[type=submit]:hover{
+    background-color: bisque;
+}
+#message{
+    width:50%;
+    color:"green";
+    font-size:2vw;
+    max-height:3vw;
+    margin:auto;
+    margin-top:10%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+}
